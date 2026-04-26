@@ -9,8 +9,9 @@ TalentAI Scout is an end-to-end recruitment platform that leverages AI to automa
 ## 🚀 Live Demo & Presentation
 
 🌐 **Live App**: https://ahana-catalyst-submission.netlify.app/  
-🎥 **Demo Video**: https://your-video-link-here.com  
+🎥 ## 🎥 Demo Video
 
+[![Watch Demo](https://cdn.loom.com/sessions/thumbnails/e69b7993809c4f208e4e0c21ee191756-with-play.gif)](https://www.loom.com/share/e69b7993809c4f208e4e0c21ee191756)
 ---
 
 ## ✨ Core Features
